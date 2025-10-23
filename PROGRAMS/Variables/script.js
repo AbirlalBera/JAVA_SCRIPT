@@ -3,26 +3,26 @@ let b = 20;
 const c = 30;
 d = 40; // Implicit global variable
 
-function f1()
+function var()
 {
     var x = 100;// Local variable
     y = 200;// Implicit global variable it can be accessed outside the function
     console.log(x, y);
 }
 
-f1();
-
+var();
 console.log(x,y);// Error: x is not defined but y is accessible because it is implicitly global variable.
 
 console.log(y);
 
 
-function f2()
+/*function f2()
 {
     const x;// Local variable we must initialize const variable
-    
     y = 200;// Implicit global variable it can be accessed outside the function
     console.log(x, y);
 }
 
-f2();
+f2();*/
+
+
