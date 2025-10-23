@@ -3,3 +3,7 @@ let b = 20;
 const c = 30;
 d = 40; // Implicit global variable
 
+function f1()
+{
+    
+}
