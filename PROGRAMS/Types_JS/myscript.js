@@ -1,5 +1,5 @@
 //document.write("Hello, World!");
-console.log("Hiii");
+//console.log("Hiii");
 
 var a = 10;
 
