@@ -12,4 +12,6 @@ function f1()
 
 f1();
 
-console.log(x,y);// Error: x is not defined but y is accessible because it is implicitly global
+console.log(x,y);// Error: x is not defined but y is accessible because it is implicitly global variable.
+
+console.log(y);
