@@ -6,7 +6,7 @@ d = 40; // Implicit global variable
 function f1()
 {
     var x = 100;// Local variable
-    y = 200;
+    y = 200;// Implicit global variable it can be accessed outside the function
     console.log(x, y);
 }
 
