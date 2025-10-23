@@ -15,3 +15,14 @@ f1();
 console.log(x,y);// Error: x is not defined but y is accessible because it is implicitly global variable.
 
 console.log(y);
+
+
+function f2()
+{
+    const x;// Local variable we must initialize const variable
+    
+    y = 200;// Implicit global variable it can be accessed outside the function
+    console.log(x, y);
+}
+
+f2();
