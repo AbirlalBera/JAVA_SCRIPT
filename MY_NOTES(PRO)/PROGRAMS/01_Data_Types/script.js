@@ -1,1 +1,1 @@
-typeof 7
+console.log(Hello);
