@@ -6,8 +6,3 @@ Chrome V8 Engine make js very fast.....
 
 ![[history-of-js.pdf]]
 
-
-![[Pasted image 20251026030102.png]]
-
-
-+![](Pasted image 20251026030102.png)
