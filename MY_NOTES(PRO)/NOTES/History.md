@@ -8,3 +8,6 @@ Chrome V8 Engine make js very fast.....
 
 
 ![[Pasted image 20251026030102.png]]
+
+
++ ![](attachments/Pasted image 20251026022208.png)
